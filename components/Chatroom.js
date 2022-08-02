@@ -7,7 +7,7 @@ import {
   faRightFromBracket,
 } from "@fortawesome/free-solid-svg-icons";
 import { useCollectionData } from "react-firebase-hooks/firestore";
-import Message from "./message";
+import Message from "./Message";
 import Link from "next/link";
 
 function Chatroom() {
