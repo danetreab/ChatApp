@@ -1,0 +1,12 @@
+.container{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+.leftColumn{
+    min-width: 30%;
+    border-right: 1px solid black;
+}
+.chat{
+    min-width: 70%;
+}
